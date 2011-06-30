@@ -1,0 +1,5 @@
+This directory contains various mathematical software.
+
+minpoly.ml - This is software for approximate polynomial minimization using
+semidefinite programming.  It was written for a class project; see the
+accompanying term paper at http://www.ruchiradatta.com/ee227apaper.pdf
